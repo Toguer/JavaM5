@@ -8,8 +8,8 @@ public class pClients {
 	static final int numClients=100;
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
-		float numMenu = 0;
+		//hola
+		double numMenu = 0;
 		String[] arrayClients=new String[numClients];
 		pClients programa = new pClients();
 		
