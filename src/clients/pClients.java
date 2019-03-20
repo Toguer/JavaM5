@@ -9,7 +9,7 @@ public class pClients {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		int numMenu = 0;
+		float numMenu = 0;
 		String[] arrayClients=new String[numClients];
 		pClients programa = new pClients();
 		
